@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemigo
   - Jugador
+  - Destruible
+  - Bala
+  - Explocion
   layers:
   - Default
   - TransparentFX
